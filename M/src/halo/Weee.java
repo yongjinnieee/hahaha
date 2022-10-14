@@ -1,10 +1,10 @@
-package test;
+package halo;
 
-public class L {
+public class Weee {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("My name is Tan Yong Jin.");
+		System.out.print("L");
 	}
 
 }
